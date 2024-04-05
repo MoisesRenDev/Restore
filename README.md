@@ -1,13 +1,27 @@
-# Restore Udemy Course repository
+# Restore Aplicación de Tienda en Línea con .Net Core & React
 
-This is the updated repository for the .Net 7.0, React 18 and React Router 6 version of the course refreshed as at October 2023
+Esta aplicación esta en las versiones de .Net 8, React 18 and React Router 6
 
-View a demo of this app [here](https://restore.fly.dev).  
+Aplicación de Tienda en Linea Creado en la tutela del Curso de Udemy:
+[text](https://www.udemy.com/course/learn-to-build-an-e-commerce-store-with-dotnet-react-redux/?couponCode=KEEPLEARNING)
+Del Profesor Neil Cummings: [text](https://www.udemy.com/user/neil-cummings-2/)
 
-You can see how this app was made by checking out the Udemy course for this here (with discount)
+No tengo los derechos de propiedad, ni del código mostrado en el curso.
+Tecnologías de Backend:
+C#
+.NET Core 8.
+Base de Datos: PosgrestSql
+Entity Framework
+Linq
+Cloudinary para almacenamiento de imágenes
+Stripe para pagos
 
-[Udemy course](https://www.udemy.com/course/learn-to-build-an-e-commerce-store-with-dotnet-react-redux/?couponCode=GITHUBRESTORE)
+Tecnologías de Front-End:
+Typescript
+React
+React-Router
+React-Redux
+React-Router-Dom
+React-Hook-Form
+Axios
 
-If you are looking for the repository for the version of this app created on .Net 6.0 and Angular v12 then this is available here:
-
-https://github.com/TryCatchLearn/Restore-v6
